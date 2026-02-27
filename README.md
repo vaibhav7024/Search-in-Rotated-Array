@@ -21,4 +21,3 @@ Example 3:
 
 Input: nums = [1], target = 0
 Output: -1
-
